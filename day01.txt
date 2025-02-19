@@ -7,3 +7,4 @@
 7.지하철
 8.9시
 9. afternoon
+10. home
